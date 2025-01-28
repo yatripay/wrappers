@@ -1,0 +1,6 @@
+{
+  "name": "Wrapped YatriPay",
+  "symbol": "WYTP",
+  "description": "YatriPay Wrapper Token on Solana MainNet.",
+  "image": "https://raw.githubusercontent.com/yatripay/wrappers/main/sol/logo.png"
+}
